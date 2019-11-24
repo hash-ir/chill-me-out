@@ -1,0 +1,18 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="192.7142" until-build="192.*"/>
+  <id>com.hackatum.jetbrains.intellibuddy</id>
+  <name>Plugin display name here</name>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <description>Intelli buddy - smart IDE assistant for Developer's healthy mind</description>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <group id="MyPlugin.SampleMenu" text="Chill" description="Stress Detector">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action id="Myplugin.Textboxes" class="HelloAction" text="Hello" description="Starts/stops IntelliBuddy"/>
+    </group>
+  </actions>
+</idea-plugin>

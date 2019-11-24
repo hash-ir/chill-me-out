@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.3000.2000@192dpi" x="364" y="64" />
+    <location key="WELCOME_SCREEN.0.0.3000.2000@192dpi" x="1512" y="808" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.3000.2000@192dpi" x="810" y="616" />
+    <location key="#Project_Structure.0.0.3000.2000@192dpi" x="686" y="282" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.3000.2000@192dpi" x="412" y="276" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.3000.2000@192dpi" x="962" y="542" />
+    <location key="FileChooserDialogImpl.0.0.3000.2000@192dpi" x="1078" y="328" />
+    <size key="GridCell.Tab.0.left.0.0.3000.2000@192dpi" width="1454" height="512" />
+    <size key="GridCell.Tab.0.center.0.0.3000.2000@192dpi" width="1454" height="512" />
+    <size key="GridCell.Tab.0.right.0.0.3000.2000@192dpi" width="1454" height="512" />
+    <size key="GridCell.Tab.0.bottom.0.0.3000.2000@192dpi" width="1454" height="512" />
+  </component>
+</application>
