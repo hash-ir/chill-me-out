@@ -1,5 +1,5 @@
 # Chill Me Out!
-Coding is fun! But sometimes, stressful. How do you manage stress? What if your IDE could cheer you up while you code? Pretty cool, right! That’s when **Chill Me Out!** dives in. Get real-time insights on your stress levels in your IDE.
+Coding is fun! But sometimes, stressful. How do you manage that stress? What if your IDE could cheer you up while you code? Pretty cool, right! That’s where **Chill Me Out!** dives in. Get real-time insights on your stress levels in IntelliJ IDE.
 
 <p align="center">
   <img width="460" height="300" src="https://www.narayanahealth.org/blog/wp-content/uploads/2019/06/shutterstock_777016792-Converted-01.jpg">
@@ -16,4 +16,4 @@ Coding is fun! But sometimes, stressful. How do you manage stress? What if your 
 * Provide feedback using the predicted stress level to the user on the IDE
 
 ### YouTube Link
-https://www.youtube.com/watch?v=WXgcFlkxijM&feature=youtu.be
+Find a demo of the project [here](https://www.youtube.com/watch?v=WXgcFlkxijM&feature=youtu.be).
