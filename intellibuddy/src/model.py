@@ -71,7 +71,7 @@ print(model)
 
 face_cascade = cv2.CascadeClassifier('C:/Users/h80054936/AppData/Local/Continuum/anaconda3/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
 
-saved_model = models.VGG('VGG19')
+# saved_model = models.VGG('VGG19')
 saved_model = torch.load('C:/Users/h80054936/Documents/intellibuddy/src/Saved_Models/model1.pt', map_location=torch.device('cpu'))
 # saved_model.eval()
 print(saved_model)
@@ -101,14 +101,14 @@ while cap.isOpened():
         
         count += 1
 
-        with open('C:/Users/h80054936/Documents/intellibuddy/src/stress.txt', 'w') as f:
+        with open('D:/hackaTUM/chill-me-out/intellibuddy/src/stress.txt', 'w') as f:
             f.writelines(str(int(label))+'\n')
                     
         cv2.putText(frame, str(label), (x-10, y-20), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0,0,255), 1, cv2.LINE_AA)
     cv2.imshow("Frame", frame)
     
-    # notepad_handle = ctypes.windll.user32.FindWindowW(None, "Frame")
-    # ctypes.windll.user32.ShowWindow(notepad_handle, 6)
+    notepad_handle = ctypes.windll.user32.FindWindowW(None, "Frame")
+    ctypes.windll.user32.ShowWindow(notepad_handle, 6)
     key = cv2.waitKey(1) & 0xFF
     
     if key == ord('q'):

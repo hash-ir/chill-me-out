@@ -564,3 +564,37 @@
 2019-11-27 10:59:01,492 [   9655]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
 2019-11-27 10:59:02,441 [  10604]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 10652 ms
 2019-11-27 11:00:08,108 [  76271]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-11-27 11:30:15,531 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-11-27 11:30:15,532 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/h80054936/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.4/a2eb13f21bdc018b64b31208823a57771b47273/ideaIC-2019.2.4/plugins/java/lib/jps-launcher.jar
+2019-11-27 11:30:17,281 [   1750]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1612 ms
+2019-11-27 11:30:18,006 [   2475]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/h80054936/IdeaProjects/untitled2, global options path = D:/hackaTUM/chill-me-out/intellibuddy/build/idea-sandbox/config/options
+2019-11-27 11:30:19,289 [   3758]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1283 ms
+2019-11-27 11:30:19,289 [   3758]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-11-27 11:30:19,701 [   4170]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
+2019-11-27 11:30:23,955 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-11-27 11:30:23,956 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/h80054936/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.4/a2eb13f21bdc018b64b31208823a57771b47273/ideaIC-2019.2.4/plugins/java/lib/jps-launcher.jar
+2019-11-27 11:30:26,934 [   2979]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 2586 ms
+2019-11-27 11:30:27,014 [   3059]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-11-27 11:30:27,306 [   3351]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/h80054936/IdeaProjects/untitled2, global options path = D:/hackaTUM/chill-me-out/intellibuddy/build/idea-sandbox/config/options
+2019-11-27 11:30:28,903 [   4948]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1597 ms
+2019-11-27 11:30:28,903 [   4948]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-11-27 11:30:29,353 [   5398]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
+2019-11-27 11:30:30,305 [   6350]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 6353 ms
+2019-11-27 11:34:41,110 [ 257155]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
+2019-11-27 11:35:07,946 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-11-27 11:35:07,947 [      1]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/h80054936/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.4/a2eb13f21bdc018b64b31208823a57771b47273/ideaIC-2019.2.4/plugins/java/lib/jps-launcher.jar
+2019-11-27 11:35:09,858 [   1912]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 1776 ms
+2019-11-27 11:35:10,374 [   2428]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/h80054936/IdeaProjects/untitled2, global options path = D:/hackaTUM/chill-me-out/intellibuddy/build/idea-sandbox/config/options
+2019-11-27 11:35:10,964 [   3018]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 590 ms
+2019-11-27 11:35:10,965 [   3019]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-11-27 11:35:11,156 [   3210]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
+2019-11-27 11:35:14,000 [      0]   INFO - etbrains.jps.cmdline.BuildMain - ==================================================
+2019-11-27 11:35:14,013 [     13]   INFO - etbrains.jps.cmdline.BuildMain - Build process started. Classpath: C:/Users/h80054936/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2019.2.4/a2eb13f21bdc018b64b31208823a57771b47273/ideaIC-2019.2.4/plugins/java/lib/jps-launcher.jar
+2019-11-27 11:35:17,441 [   3441]   INFO - etbrains.jps.cmdline.BuildMain - Connection to IDE established in 3175 ms
+2019-11-27 11:35:17,753 [   3753]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational
+2019-11-27 11:35:18,371 [   4371]   INFO - jps.cmdline.JpsModelLoaderImpl - Loading model: project path = C:/Users/h80054936/IdeaProjects/untitled2, global options path = D:/hackaTUM/chill-me-out/intellibuddy/build/idea-sandbox/config/options
+2019-11-27 11:35:19,432 [   5432]   INFO - jps.cmdline.JpsModelLoaderImpl - Model loaded in 1061 ms
+2019-11-27 11:35:19,433 [   5433]   INFO - jps.cmdline.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2019-11-27 11:35:20,029 [   6029]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=680
+2019-11-27 11:35:20,959 [   6959]   INFO - etbrains.jps.cmdline.BuildMain - Pre-loaded process ready in 6965 ms
+2019-11-27 11:38:25,162 [ 191162]   INFO - etbrains.jps.cmdline.BuildMain - Build canceled, but no build session is running. Exiting.
