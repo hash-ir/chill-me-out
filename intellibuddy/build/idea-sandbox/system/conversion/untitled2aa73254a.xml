@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\h80054936\IdeaProjects\untitled2\.idea\encodings.xml" timestamp="1574568827685" />
+    <file path="C:\Users\h80054936\IdeaProjects\untitled2\.idea\misc.xml" timestamp="1574568827636" />
+    <file path="C:\Users\h80054936\IdeaProjects\untitled2\.idea\modules.xml" timestamp="1574568827719" />
+    <file path="C:\Users\h80054936\IdeaProjects\untitled2\.idea\project-template.xml" timestamp="1574568747184" />
+    <file path="C:\Users\h80054936\IdeaProjects\untitled2\.idea\workspace.xml" timestamp="1574848762560" />
+    <file path="C:\Users\h80054936\IdeaProjects\untitled2\untitled2.iml" timestamp="1574568747207" />
+  </project-files>
+</conversion>
+
