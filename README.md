@@ -1,11 +1,12 @@
 # Chill Me Out!
-Coding is fun! But sometimes, stressful. How do you manage that stress? What if your IDE could cheer you up while you code? Pretty cool, right! That’s where **Chill Me Out!** dives in. Get real-time insights on your stress levels in IntelliJ IDE.
+Coding is fun, but can be stressful sometimes. How do you manage that stress? What if your IDE could cheer you up while you code? Pretty cool, right! That’s where **Chill Me Out!** comes in. Get real-time insights on your stress levels in IntelliJ IDE.
 
 <p align="center">
-  <img width="460" height="300" src="https://www.narayanahealth.org/blog/wp-content/uploads/2019/06/shutterstock_777016792-Converted-01.jpg">
+  <img src="https://github.com/user-attachments/assets/8944e3fb-88a6-419f-b372-5f5f3e7fd3a7">
 </p>
 
-This project was implemented and submitted in hackaTUM 2019 at Technical University of Munich under the JetBrains track. We developed an IntelliJ plugin which invokes a Python script. The script consists of a trained Deep Learning Model (`model.py`) which predicts the stress level (0-100) of the user. This is done in real-time through VideoCapture from OpenCV. The stress value is written to a text file (`stress.txt`) which is read simulataneously by the plugin app. Depending on the stress level, a Joke API is invoked which sends back random programming jokes from the Internet. Currently, the stress level is thresholded at 65. The final feedback is presented as a message in a tooltip in the lower right corner.  
+This repository is a result of a project submitted in hackaTUM 2019 (JetBrains track) at the Technical University of Munich. We developed an IntelliJ plugin that calls a Python script,  consisting of a trained deep learning classifier (`model.py`) that predicts the stress level (0-100) of the user. The name of the plugin is **Intellibuddy** while the project itself was named **chill-me-out**. Of course, this project was all for fun and there is no scientific idea behind this 😉 
 
-### YouTube Link
-Find a demo of the project [here](https://www.youtube.com/watch?v=WXgcFlkxijM&feature=youtu.be).
+The stress level is divided into ranges and these ranges correspond to the emotion of the person writing the code. For example, if the person is happy 😄, the stress level could be mapped to the range 0-20 while if the person is angry 😠, the stress level could be well above 80. This is done in real-time through OpenCV's `VideoCapture`. The stress value is written to a text file (`stress.txt`) that is read concurrently by the Java plugin app. Depending on the stress level, a Joke API is called, sending back random programming jokes from the Internet. The joke along with a personalized message is shown in a tooltip in the lower right corner.  
+
+Find a demo of the project [here](https://www.youtube.com/watch?v=WXgcFlkxijM&feature=youtu.be)!
